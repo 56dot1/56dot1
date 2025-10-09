@@ -1,4 +1,4 @@
-# Kaiyuan Liu's GitHub
+# 👋Hello there:)
 
 Welcome to my GitHub! I am a **M.Sc. student in Data Science** at the **University of Macau**, focusing on **Artificial Intelligence Applications**. My research interests include **Large Language Models (LLMs)**, **On-Device Inference**, **Edge Computing**, and **Machine Learning Systems (MLSys)**. I am passionate about developing solutions that optimize real-time LLM inference on edge devices.
 
