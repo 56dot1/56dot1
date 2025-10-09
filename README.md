@@ -1,22 +1,35 @@
 # 👋Hello there:)
 
-Welcome to my GitHub! I am a **M.Sc. student in Data Science** at the **University of Macau**, focusing on **Artificial Intelligence Applications**. My research interests include **Large Language Models (LLMs)**, **On-Device Inference**, **Edge Computing**, and **Machine Learning Systems (MLSys)**. I am passionate about developing solutions that optimize real-time LLM inference on edge devices.
+I am Kaiyuan Liu a **M.Sc. student in Data Science** at the **University of Macau**. My research interests include **Large Language Models (LLMs)**, **On-Device Inference**, **Edge Computing**, and **MLSys**.
 
 ## 📚 Research
 
 I work on bridging the gap between **high-performance AI systems** and **resource-constrained environments**, such as mobile and edge devices. Below are some of my recent publications:
 
-### [RTSS’25, CCF-A] HCInfer: Hierarchical Coordination for Real-Time Collaborative Inference of LLM on the Edge
-*Kaiyuan Liu, Lizi Zhang, Chengzhong Xu, Li Li*  
-This paper introduces **HCInfer**, a framework that utilizes hierarchical coordination between edge devices to optimize **LLM inference** in real-time applications.
+## 📚 代表性成果
 
-![HCInfer](fig.1)  <!-- Replace with an actual image related to HCInfer -->
+### HCInfer：边缘设备上大语言模型的层次协同推理框架
 
-### [TPDS’25, CCF-A] m2LLM: A Multi-Dimensional Optimization Framework for LLM Inference on Mobile Devices
-*Kaiyuan Liu, Xiaobo Zhou, Li Li*  
-In this work, we propose **m2LLM**, a multi-dimensional optimization framework that reduces the memory footprint and inference latency for **LLMs** on mobile devices.
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="fig.1" alt="HCInfer" style="width: 200px; height: auto; margin-right: 20px;">
+  <div>
+    <p><strong>会议：</strong>IEEE 实时系统研讨会（RTSS’25，CCF-A）</p>
+    <p><strong>合作者：</strong>张丽子、许成忠、李力</p>
+    <p><strong>亮点：</strong>提出了一种层次化协同推理框架，利用邻近设备的空闲资源，实现大语言模型的实时推理。</p>
+  </div>
+</div>
 
-![m2LLM](fig.2)  <!-- Replace with an actual image related to m2LLM -->
+### m2LLM：移动设备上大语言模型推理的多维优化框架
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="fig.2" alt="m2LLM" style="width: 200px; height: auto; margin-right: 20px;">
+  <div>
+    <p><strong>期刊：</strong>IEEE 并行与分布式系统汇刊（TPDS’25，CCF-A）</p>
+    <p><strong>合作者：</strong>周晓博、李力</p>
+    <p><strong>亮点：</strong>提出了一种多维度优化框架，平衡了性能、实时性和能效，提升了移动设备上大语言模型的推理效率。</p>
+  </div>
+</div>
+
 
 ## 🧑‍💻 Research Experience
 
