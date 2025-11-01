@@ -52,7 +52,7 @@ I led the development of a **Chinese Sign Language recognition model** that achi
 
 ## 📬 Contact Me
 - **Email**: [kaiyuanliu@um.edu.mo](mailto:kaiyuanliu@um.edu.mo)
-- **GitHub**: [github.com/username](https://github.com/56dot1)
+- **GitHub**: [56dot1](https://github.com/56dot1)
 - **Google Scholar**: [Kaiyuan Liu](https://scholar.google.com/citations?user=kgX-L2wAAAAJ&hl=en)
 
 Feel free to explore my repositories, or contact me if you're interested in collaboration, research discussions, or AI-related topics!
