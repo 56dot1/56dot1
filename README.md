@@ -1,10 +1,6 @@
 # 👋Hello there:)
 
-I am Kaiyuan Liu a **M.Sc. student in Data Science** at the **University of Macau**. My research interests include **Large Language Models (LLMs)**, **On-Device Inference**, **Edge Computing**, and **MLSys**.
-
-## 📚 Research
-
-I work on bridging the gap between **high-performance AI systems** and **resource-constrained environments**, such as mobile and edge devices. Below are some of my recent publications:
+I am Kaiyuan Liu (刘开元). I received my BE degree from Henan University, Henan, China, in 2023, and my MS degree in Data Science from the University of Macau, Macau, China, in 2025. I am currently working as a research assistant at the State Key Laboratory of IoTSC, University of Macau. My research interests center on **MLsys**, **on-device LLM inference**, and **Edge computing**. I am passionate about exploring how intelligent systems can be optimized for real-world applications and advancing the efficiency of AI on resource-constrained devices.
 
 ## 📖 Publications
 
@@ -19,12 +15,12 @@ I work on bridging the gap between **high-performance AI systems** and **resourc
   </div>
 </div>
 
-### m<sup>2</sup>LLM: A <u>M</u>ulti-Dimensional Optimization Framework for LLM Inference on <u>M</u>obile Devices
+### m<sup>2</sup>LLM: A <u>M</u>ulti-Dimensional Optimization Framework for LLM Inference on <u>M</u>obile Devices(https://ieeexplore.ieee.org/abstract/document/11075620/metrics#metrics)
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="m2llm.png" alt="m2LLM" style="width: 600px; height: auto; margin-right: 20px;">
   <div>
-    <p>IEEE Transactions on Parallel and Distributed Systems（TPDS’25，CCF-A）</p>
+    <p>**IEEE Transactions on Parallel and Distributed Systems（TPDS’25，<p style="color:#990000;">CCF-A</p>）**</p>
     <p><strong>Author：</strong>Kaiyuan Liu, Xiaobo Zhou, Li Li</p>
   </div>
 </div>
