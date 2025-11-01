@@ -10,7 +10,7 @@ I am Kaiyuan Liu (刘开元). I received my BE degree from Henan University, Hen
   <img src="rtss.png" alt="HCInfer" style="width: 600px; height: auto; margin-right: 20px;">
   <div>
     <p> <strong>The 46th IEEE Real-Time Systems Symposium (RTSS’25，CCF-A)</strong> </p>
-    <p><strong>Author：</strong> <u>Kaiyuan Liu</u>, Lizi Zhang, Chengzhong Xu, Li Li </p>
+    <p><strong>Author：</strong> _Kaiyuan Liu_, Lizi Zhang, Chengzhong Xu, Li Li </p>
   </div>
 </div>
 
@@ -53,11 +53,8 @@ I led the development of a **Chinese Sign Language recognition model** that achi
 ## 📬 Contact Me
 - **Email**: [kaiyuanliu@um.edu.mo](mailto:kaiyuanliu@um.edu.mo)
 - **GitHub**: [github.com/username](https://github.com/username)
-- **Google Scholar**: [your-personal-website-link](https://scholar.google.com/citations?user=kgX-L2wAAAAJ&hl=en)
+- **Google Scholar**: [Kaiyuan Liu](https://scholar.google.com/citations?user=kgX-L2wAAAAJ&hl=en)
 
 Feel free to explore my repositories, or contact me if you're interested in collaboration, research discussions, or AI-related topics!
 
----
-
-> *"The future is not something we enter. The future is something we create."* — **Leonard I. Sweet**
 
