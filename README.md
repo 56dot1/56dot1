@@ -9,7 +9,7 @@ I am Kaiyuan Liu (刘开元). I received my BE degree from Henan University, Hen
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="rtss.png" alt="HCInfer" style="width: 600px; height: auto; margin-right: 20px;">
   <div>
-    <p> <strong>The 46th IEEE Real-Time Systems Symposium (RTSS’25，$${\color{red}CCFA (44/200=22.0%)}$$)</strong> </p>
+    <p> <strong>The 46th IEEE Real-Time Systems Symposium (RTSS’25，$${\color{red}CCF--A}$$)</strong> </p>(44/200=22.0%)
     <p><strong>Author：</strong> 🌟Kaiyuan Liu, Lizi Zhang, Chengzhong Xu, Li Li </p>
   </div>
 </div>
@@ -22,7 +22,7 @@ I am Kaiyuan Liu (刘开元). I received my BE degree from Henan University, Hen
   <p>
   <strong>
     IEEE Transactions on Parallel and Distributed Systems (TPDS’25，
-    <span style="color:#990000; font-weight:bold;">$${\color{red}CCFA}$$</span>)
+    <span style="color:#990000; font-weight:bold;">$${\color{red}CCF--A}$$</span>)
   </strong>
   </p>
     <p><strong>Author：</strong> 🌟Kaiyuan Liu, Xiaobo Zhou, Li Li</p>
