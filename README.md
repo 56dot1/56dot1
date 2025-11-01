@@ -6,7 +6,7 @@ I am Kaiyuan Liu a **M.Sc. student in Data Science** at the **University of Maca
 
 I work on bridging the gap between **high-performance AI systems** and **resource-constrained environments**, such as mobile and edge devices. Below are some of my recent publications:
 
-## 📚 代表性成果
+## 📖 Publications
 
 ### HCInfer：边缘设备上大语言模型的层次协同推理框架
 
@@ -19,14 +19,13 @@ I work on bridging the gap between **high-performance AI systems** and **resourc
   </div>
 </div>
 
-### m2LLM：移动设备上大语言模型推理的多维优化框架
+### $m^2$LLM: A Multi-Dimensional Optimization Framework for LLM Inference on Mobile Devices
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="fig.2" alt="m2LLM" style="width: 200px; height: auto; margin-right: 20px;">
   <div>
-    <p><strong>期刊：</strong>IEEE 并行与分布式系统汇刊（TPDS’25，CCF-A）</p>
-    <p><strong>合作者：</strong>周晓博、李力</p>
-    <p><strong>亮点：</strong>提出了一种多维度优化框架，平衡了性能、实时性和能效，提升了移动设备上大语言模型的推理效率。</p>
+    <p><strong>Journal：</strong>IEEE Transactions on Parallel and Distributed Systems（TPDS’25，CCF-A）</p>
+    <p><strong>Author：</strong>Kaiyuan Liu, Xiaobo Zhou, Li Li</p>
   </div>
 </div>
 
