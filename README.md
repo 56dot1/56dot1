@@ -20,7 +20,12 @@ I am Kaiyuan Liu (刘开元). I received my BE degree from Henan University, Hen
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="m2llm.png" alt="m2LLM" style="width: 600px; height: auto; margin-right: 20px;">
   <div>
-    <p>**IEEE Transactions on Parallel and Distributed Systems（TPDS’25，<p style="color:#990000;">CCF-A</p>）**</p>
+    <p>
+  <strong>
+    IEEE Transactions on Parallel and Distributed Systems (TPDS’25，
+    <span style="color:#990000; font-weight:bold;">CCF-A</span>)
+  </strong>
+</p>
     <p><strong>Author：</strong>Kaiyuan Liu, Xiaobo Zhou, Li Li</p>
   </div>
 </div>
