@@ -22,7 +22,7 @@ I work on bridging the gap between **high-performance AI systems** and **resourc
 ### m<sup>2</sup>LLM: A <u>M</u>ulti-Dimensional Optimization Framework for LLM Inference on <u>M</u>obile Devices
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="m2llm.png" alt="m2LLM" style="width: 200px; height: auto; margin-right: 20px;">
+  <img src="m2llm.png" alt="m2LLM" style="width: 600px; height: auto; margin-right: 20px;">
   <div>
     <p>IEEE Transactions on Parallel and Distributed Systems（TPDS’25，CCF-A）</p>
     <p><strong>Author：</strong>Kaiyuan Liu, Xiaobo Zhou, Li Li</p>
