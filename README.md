@@ -19,7 +19,7 @@ I work on bridging the gap between **high-performance AI systems** and **resourc
   </div>
 </div>
 
-### $m^2$LLM: A Multi-Dimensional Optimization Framework for LLM Inference on Mobile Devices
+### m<sup>2</sup>LLM: A Multi-Dimensional Optimization Framework for LLM Inference on Mobile Devices
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="fig.2" alt="m2LLM" style="width: 200px; height: auto; margin-right: 20px;">
