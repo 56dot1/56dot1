@@ -21,7 +21,7 @@ I am Kaiyuan Liu (刘开元). I received my BE degree from Henan University, Hen
   <div>
   <p>
   <strong>
-    IEEE Transactions on Parallel and Distributed Systems (TPDS’25，
+    IEEE Transactions on Parallel and Distributed Systems (TPDS’25,
     <span style="color:#990000; font-weight:bold;">$${\color{red}CCF\:A}$$</span>)
   </strong>
   </p>
