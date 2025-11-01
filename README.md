@@ -4,14 +4,13 @@ I am Kaiyuan Liu (刘开元). I received my BE degree from Henan University, Hen
 
 ## 📖 Publications
 
-### HCInfer：边缘设备上大语言模型的层次协同推理框架
+### HCInfer: Hierarchical Coordination for Real-Time Collaborative Inference of LLM on the Edge
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="fig.1" alt="HCInfer" style="width: 200px; height: auto; margin-right: 20px;">
+  <img src="rtss.png" alt="HCInfer" style="width: 200px; height: auto; margin-right: 20px;">
   <div>
-    <p><strong>会议：</strong>IEEE 实时系统研讨会（RTSS’25，CCF-A）</p>
-    <p><strong>合作者：</strong>张丽子、许成忠、李力</p>
-    <p><strong>亮点：</strong>提出了一种层次化协同推理框架，利用邻近设备的空闲资源，实现大语言模型的实时推理。</p>
+    <p><strong>Conference：</strong> The 46th IEEE Real-Time Systems Symposium（RTSS’25，CCF-A）</p>
+    <p><strong>Author：</strong><u>Kaiyuan Liu</u>, Lizi Zhang, Chengzhong Xu, Li Li </p>
   </div>
 </div>
 
@@ -26,7 +25,7 @@ I am Kaiyuan Liu (刘开元). I received my BE degree from Henan University, Hen
     <span style="color:#990000; font-weight:bold;">CCF-A</span>)
   </strong>
   </p>
-    <p><strong>Author：</strong>Kaiyuan Liu, Xiaobo Zhou, Li Li</p>
+    <p><strong>Author：</strong><u>Kaiyuan Liu</u>, Xiaobo Zhou, Li Li</p>
   </div>
 </div>
 
@@ -41,7 +40,6 @@ This project focuses on developing a **collaborative inference framework** using
 *University of Macau, Jun. 2024 – Dec. 2024*  
 I am investigating ways to optimize **LLM inference** on mobile devices, addressing issues like high energy consumption and long inference times. The framework incorporates **multi-dimensional optimization** to balance performance, real-time efficiency, and energy consumption.
 
-![Mobile LLM](fig.3)  <!-- Replace with an actual image related to Mobile LLM -->
 
 ### **Chinese Sign Language Recognition Project**  
 *Henan University, Apr. 2021 – May. 2022*  
@@ -55,7 +53,7 @@ I led the development of a **Chinese Sign Language recognition model** that achi
 ## 📬 Contact Me
 - **Email**: [kaiyuanliu@um.edu.mo](mailto:kaiyuanliu@um.edu.mo)
 - **GitHub**: [github.com/username](https://github.com/username)
-- **Homepage**: [your-personal-website-link](#)
+- **Google Scholar**: [your-personal-website-link](https://scholar.google.com/citations?user=kgX-L2wAAAAJ&hl=en)
 
 Feel free to explore my repositories, or contact me if you're interested in collaboration, research discussions, or AI-related topics!
 
