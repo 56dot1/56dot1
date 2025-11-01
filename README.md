@@ -15,7 +15,7 @@ I am Kaiyuan Liu (刘开元). I received my BE degree from Henan University, Hen
   </div>
 </div>
 
-### m<sup>2</sup>LLM: A <u>M</u>ulti-Dimensional Optimization Framework for LLM Inference on <u>M</u>obile Devices(https://ieeexplore.ieee.org/abstract/document/11075620/metrics#metrics)
+### [m<sup>2</sup>LLM: A <u>M</u>ulti-Dimensional Optimization Framework for LLM Inference on <u>M</u>obile Devices](https://ieeexplore.ieee.org/abstract/document/11075620/metrics#metrics)
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="m2llm.png" alt="m2LLM" style="width: 600px; height: auto; margin-right: 20px;">
