@@ -4,7 +4,7 @@ I am Kaiyuan Liu (刘开元). I received my BE degree from Henan University, Hen
 
 ## 📖 Publications
 
-### HCInfer: Hierarchical Coordination for Real-Time Collaborative Inference of LLM on the Edge
+### [HCInfer: Hierarchical Coordination for Real-Time Collaborative Inference of LLM on the Edge](https://ieeexplore.ieee.org/abstract/document/11315119)
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="rtss.png" alt="HCInfer" style="width: 600px; height: auto; margin-right: 20px;">
